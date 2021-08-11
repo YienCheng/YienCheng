@@ -1,8 +1,10 @@
-<h1 align="center">Hi, I'm YienCheng 🤓</h1>
+# Hi, I'm YienCheng 🤓
 
-<h3 align="center">A handsome and sunny boy</h3>
+### A handsome and sunny boy
 
-<p align="center"><img width="150" src="https://github.com/YienCheng/YienCheng/blob/main/github.gif" /></p>
+<img width="150" src="https://github.com/YienCheng/YienCheng/blob/main/github.gif" />
+
+<p align="center"></p>
 
 [![YienCheng's Profile Views](https://komarev.com/ghpvc/?username=YienCheng)](https://github.com/antonkomarev/github-profile-views-counter)
 
