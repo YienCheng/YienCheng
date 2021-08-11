@@ -1,6 +1,6 @@
-# Hi, I'm YienCheng 🤓
+# Hi, I'm YienCheng 🙋‍♂️
 
-### A handsome and sunny boy
+### 🤓 A handsome and sunny boy 🌞
 
 <img width="150" src="https://github.com/YienCheng/YienCheng/blob/main/github.gif" />
 
